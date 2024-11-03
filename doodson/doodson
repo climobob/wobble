@@ -1,0 +1,47 @@
+43
+0 0   0 0    0  0  0      ! day, sidereal month, sidereal year, anomalistic year, venus, jupiter saturn
+0 0   0 1    0  0  0      ! 1 cpy (anom)              ~16722  micro-AU 
+0 0   0 2    0  0  0      ! 2 cpy (anom)              ~  140
+0 1  -1 0    0  0  0      ! lunar synodic (29.53)        ~31
+0 0  -2 0    2  0  0      ! venus double sidereal (292)  ~16.0
+0 0   1 0    0 -1  0      ! jupiter sidereal (398)       ~15.1
+0 0   2 0    0 -2  0      ! jupiter double sidereal (199) ~9.3
+0 0  -1 0    1  0  0      ! venus sidereal (584)          ~4.1
+0 0  -4 0    3  0  0      ! earth-venus 4:3 (418.4 dy)    ~3.8
+0 0   1 0    0 -2  0      ! earth-jupiter 1:2 (439 dy)    ~3.4
+0 0  -3 0    2  0  0      ! earth-venus 3:2 (1455 dy)     ~2.9
+0 0  -3 0    3  0  0      ! venus triple (194.5)          ~2.6
+0 0   0  0   0  1  0      ! Jupiter direct                2.5
+0 0   0 3    0  0  0      ! 3 cpy (anom) (121.7)          ~1.8
+0 0  -8 0    6  0  0      ! earth-venus 8:6 (208.3 dy)    ~1.6
+0 0   2  0  -1  0  0      ! 2e - 1v (975 dy)              1.0
+0 0  -4  0   4  0  0      ! venus quad sidereal (146)     0.8 
+0 1   0 0    0  0  0      ! lunar sidereal (27.322)       0.57
+0 1  -2 0    0  0  0      ! lunar  (32.1 dy)              0.55
+0 0  -6  0   4  0  0      ! earth-venus 3:2 halved (727 dy) 0.51
+0 0  -5  0   5  0  0      ! venus quint sidereal (116.8)  0.49 
+0 0   1 0    0 -3  0      ! earth-jupiter 1:3 (489)       0.4
+0 0  -6  0   6  0  0      ! venus hexed sidereal (97.33)  0.2 
+0 0   0 5    0  0  0      ! quint-annual                  0.08
+0 3   0 -3   0  0  0      !    lunar ter-synodic          0.06
+0 0   0 4    0  0  0      ! Annual harmonics ! this and rest Added for meteorological interest  0.06
+0 2  -1 0    0  0  0      !   lunar (14.192 dy)           0.04
+0 0   0 6    0  0  0      ! hex annual                    0.03
+0 2   0 -3   0  0  0      !   lunar 15.387 dy             0.02
+0 2  -2 0    0  0  0      ! lunar 14.77 dy (lod)
+0 2   0 -4   0  0  0
+0 1   0 -4   0  0  0      ! Lunar monthly harmonic (excluding above)
+0 1   0 -3   0  0  0
+0 1   0  1   0  0  0
+0 1   0  2   0  0  0
+0 1   0  3   0  0  0
+0 1   0  4   0  0  0
+0 2   0  1   0  0  0
+0 2   0  2   0  0  0
+0 2   0  3   0  0  0
+0 2   0  4   0  0  0
+0 3   0 -4   0  0  0
+0 2   0 0    0  0  0      ! lunar 13.66 dy (lod)
+!0 0   0  0   0 -2  5      ! Major Jupiter-Saturn resonance 161
+!0 0   4  0  -2  0  0      ! 4e - 2v (487 dy)
+!0 0   0  1   0 -2 5       ! split from annual of major jupiter-saturn resonance (may want to flip signs of giants) 

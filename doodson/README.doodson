@@ -1,0 +1,18 @@
+Doodson numbers originated with Doodson in studying tides.  In the original, they
+refer to how many cycles per sidereal day, lunar sidereal month, tropical year,
+precession of the lunar perigee, precession of the lunar node, and precession 
+of the earth's orbit were added to construct the frequency of interest.  
+
+Such an approach is used elsewhere as well, and I'll make similar use.  The base
+frequencies I use are the day (mean solar, for meteorological investigations), 
+sidereal year, anomalistic year (Per Thomson, 1995), the lunar sidereal month, 
+Venus's period, Jupiter's orbital period, and Saturn's.  Some of the programs include 
+appropriate constants for including Mars, Uranus, and Neptune as well.  
+
+Saturn and the mean solar day are unused in this paper.
+
+The values I've included were found by iterative examination of the earth-sun
+distance.
+  
+Doodson, 19XX: XXX
+Thomson, 1995: XXX
