@@ -1,0 +1,192 @@
+Subject: talk.origins leads to a paper
+
+  t.o. isn't just a means of killing time, surprisingly.  Nor
+even just a way of avoiding doing productive work, even though
+it serves that purpose fairly well also.  I've actually managed
+to turn a bit of pedantry from here into a paper (submitted to)
+a scientific journal.  
+
+  The story of that translation has some t.o. relevance as well.
+Plus, it's an atypically compact story for how a journal paper
+came to be written so might be interesting for that reason.  I
+described some of the considerations back a ways in a post that
+was nominated for post of the month (finished as runner-up).  
+
+  The bit of pedantry at the heart of the article is that Paul
+Gans and I were pointing out, with surprisingly little success, 
+that one could compute planetary orbits centered on any body
+in the solar system that one chose.  While the sun is a common
+choice, and makes some terms small, there's nothing in the math
+that says you _must_ use the Sun.
+Nor is there anything to say that you can't use the earth's 
+center as your coordinate system's origin.
+
+  That put me in mind of a somewhat different pedantic point.  Namely,
+the earth does not orbit the sun, it orbits the center of mass of the
+solar system.  The difference is small, of course.  But it isn't
+zero.  The moon, for instance, perturbs our orbit by about 5000 km -- 
+not even enough to break the surface of our 6370 km radius planet.  
+Certainly a small figure relative to the 150 million km of our
+orbit's radius.
+
+  But ... there's a several year old (even at that point) article
+noting a regular temperature fluctuation in the earth's atmosphere
+at the period of this perturbation.  So let's look a little more.
+The variation in earth-sun distance caused by the moon leads to
+an about 0.1 W/m^2 variation (mean to peak, 0.2 peak to trough)
+in the radiation hitting the top of the atmosphere.  Ok, 'small'
+compared to the 1367 at the top of the atmosphere.  But remember
+that we're looking at the 4 W/m^2 estimated for CO2 doubling
+as being a 'large' term, and even the 1 W/m^2 from peak to trough
+fluctuations in the solar constant over the 11ish year solar
+cycle as being 'large'.  Compared to 1-4, 0.2 W/m^2 is not a
+terribly small number.
+
+  Now if we look out to the solar system, there are bodies much
+more massive than the moon, some of which are close (on solar
+system scales).  Jupiter and Venus lead this list.  If we
+look at the variations in earth-sun distance, we find several
+terms from the Moon, Jupiter, and Venus which are on about that
+0.1 W/m^2 order of magnitude.  The leading periods are 29.53,
+399, 584, and 292 days, with some smaller ones around 1455,
+417, 434, ... and a host of others as we look at the ever-smaller
+terms in this series.
+
+  The 417 and 292 are especially interesting figures.  The latter 
+corresponds, more or less (and this statement is vague more on 
+account of how people have looked at the data than on the data 
+themselves), to a period of a minor fluctuation in the orientation 
+in the earth's rotation.  It's been mentioned off and on for about 50 
+years.  The off is that not every analysis shows it, and when shown 
+it might or might not be statistically significant.
+
+  Much more obviously interesting is the 417 days.  To see why, we
+must shift gears to a different astronomical matter.  
+
+  The earth's rotational axis doesn't always point in the same
+direction.  For meteorological periods, this is no surprise.
+Exchange of angular momentum between the solid earth and the
+atomsphere-ocean system leads to some fluctuation, as do torques
+(pressure and drag) exerted by the atmosphere-ocean on the 
+solid earth.  On account of this, there is a large (for
+this sort of thing, about 0.1 seconds of arc) seasonal variation
+in the orientation of the earth's axis.
+
+  But the major period in the variation of the earth's axis is
+about 433 days, at 0.14 seconds of arc (amounting to about 10 meters
+surface displacement).  This was discovered by Chandler, and published
+in 1891.  It was a problematic observation for over a century before it
+was observed.  Euler had derived that a rigid body of the earth's
+size and shape would have a free period of nutation at about 305 
+days.  This was looked for in the early 1800s, and not found.  Not
+finding it was a little troubling, but not excessively.  Even with
+a free period present, there does need to be some energy available
+to excite the oscillation.  
+
+  With Chandler's observation of the much longer period, the problem
+came back under examination, and it was found that the fact that
+the earth is not perfectly rigid is important.  With the elastic
+yeilding of the earth, the free period is lengthened to about 430
+days.  The precise figure depends on the details of the elastic
+properties of the earth.
+
+  This Chandler wobble, then, lead to the resolution of the earth's
+free period.  But it raised further questions.  The wobble ought
+to die out over time.  Its period depends on flexing the earth,
+and the earth doesn't flex perfectly.  The energy ought to dissipate
+over time.  Estimates for this damping time vary, but are between
+years and several decades.  Since we're still seeing the Chandler
+Wobble, there must be some source of energy for it.  The search
+for this energy source has continued for over a century.  There
+was an announcement of the problem being 'solved' in 2000, but
+fairly quickly the usual sorts of disputes about a claimed solution
+arose.  
+
+  The solution, at least claimed at that time, was that atmosphere-ocean
+drags were the source.  This was based on analysis of wind analyses
+and on estimates of the ocean-seafloor pressure forces and drags.
+On the one hand, this is no enormous surprise.  On the other, though,
+it doesn't fully explain the wobble, as it leaves aside the question
+of _why_ the atmosphere-ocean system should have energy at about the
+right period to excite the free nutation of the earth. 
+ 
+  A related problem to the Chandler Wobble is the Pole Tide.  If the
+earth is wobbling about, then it's expected that the ocean can slosh
+around as a result -- leading to a 'tide' rising and falling in 
+sync with the wobble, or the wobble being driven by that pole tide.
+A Pole Tide has been found -- in the North Sea.  It, then, raises
+its own question of what forces it.  An explanation was proposed, 
+wind forcing.  But this ran in to the immediate objection that there
+was no reason known for the winds to fluctuate with a stable period
+that 'just happened' to be the right one for pole tide and for Chandler
+Wobble.  Further, the cause had to be something that was very 
+tightly locked onto that period.  Few things meteorological are
+tightly locked on any period, and certainly not such a peculiar
+period as 14ish months.  Yet the observations and analysis of the
+proposed winds did show that period.  Why?
+  
+
+  So, the hypothesis to beat upon: Variations in the earth-sun distance
+provide a forcing to the atmosphere which is translated to air-sea
+torques which drive the pole tide and Chandler wobble.  In its favor 
+is that the variation in earth-sun distance is indeed something which 
+has very tightly locked periods.  While planetary orbits do vary, the 
+main periods of variation are tens of thousands of years.  If we look 
+at only a century or so, as we must for analyzing the Chandler wobble, 
+then the astronomical periods are very nearly constant.  Certainly more 
+constant than our record length allows us to detect any variation. 
+
+  But we must track this influence.  It is insufficient to say that
+the periods are about right, and are constant.  We go back to the 
+fact that the variations in distance are small, even for the largest.
+_If_ they translate to variations in the earth's atmosphere-ocean
+system, then the free period can be fed energy.  Given that there is
+a free period in the earth's rotation, the system also can perform 
+(near-)resonant amplification of that energy.  Alternately, there is 
+the possibility of a stochastic resonance -- whereby energy can be 
+amplified even on top of a noisy background.  This process accounts 
+for why it is easier to hear things against a slightly noisy background 
+than when it is totally silent. 
+
+  Now, if we consider the earth's rotation to be a linear resonator,
+we have a question as to why the Chandler wobble is seen as 1 period
+of 433 days, rather than a combination of 3 periods at 441, 417, and 399
+days.  It turns out that there is, in fact, a long-standing debate about
+whether the Chandler Wobble is single or multiple.  There is also a 
+different fact -- how we analyze the data.  To clearly separate two
+periods without an _a priori_ knowledge of what they are, we need a 
+record long enough that the faster one has completed a full extra
+cycle over the slower one.  To separate 417 and 399 day periods, we
+need 25 years of data.  To separate 417 and 441, we need 21 years.
+We do have records that long, daily data extend back to 1962 and 0.1 
+yearly goes back to 1888XX.  But ... to separate 417 and 441 from a 
+net period of 433 days takes records of 31 and 65 years.  While this
+is doable, marginally in the latter case, it also takes us to a 
+different matter of how the data are normally analyzed.  
+
+  That is, if we do standard Fourier analysis, the record length 
+itself becomes part of the analysis.  The Fourier periods are
+integer fractions of the record length.  If we start with a 
+record 540 days long, for instance, the Fourier periods are 540
+days (the first harmonic), 270 days (second), 180 days (third),
+and so on.  If the energy is residing at a period of 365 days,
+it gets smeared across both the 540 and 270 day periods in the
+analysis (and many of the rest).  While the energy gets represented,
+it is displayed at greatly reduced amplitude because we have not 
+captured the right period.  If we are trying to detect a small
+peak, or multiple comparable peaks close to each other,
+it then becomes important either to know where they are (what there
+periods are) or to very fortuitously have selected a record
+length such that these periods are Fourier periods.
+
+  The matter of what the Fourier periods are for the data analysis
+also affects the question of what it happening at around 300 days
+period.  If the record length happens to be a multiple of the 292
+days, and 292 days is, in fact, the period at which this minor
+variation occurs, then a relatively large signal could be found.  
+If the record length is off, such that 305 (say) days being the Fourier
+period, then the amplitude of this peak can be reduced enough to
+not be significant.  
+
+
+  
