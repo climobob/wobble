@@ -1,0 +1,29 @@
+================================================================================
+Data format for the COMPOSITE_d15.PLT
+
+  COL   FMT    DESCRIPTION
+--------------------------------------------------------------------------------
+ 1- 4   I4     Year
+ 5- 6   I2     Month
+ 7- 8   I2     Day
+ 9-10   2X     Blank
+11-18   F8.3   Total Solar Irradiance (TSI)
+
+CREATED: Nov 19 1999
+VERSION: 15
+NOTE:    A plot of the composite is shown on the homepage of PMOD/WRC: 
+         http://www.pmodwrc.ch/
+--------------------------------------------------------------------------------
+The description of the composite can be found in:
+C.Fr\"ohlich and Judith Lean, 1998, "Total Solar Irradiance Variations",
+in: F.L.Deubner et al., Eds., "New Eyes to see inside the Sun and Stars", 
+Proceedings IAU Symposium 185, Kyoto, August 1997, Kluwer Academic Publ., 
+Dordrecht, The Netherlands, pp. 89-102.
+C.Fr\"ohlich and Judith Lean, 1998, "The Suns Total Irradiance: Cycles, 
+Trends and Related Climate Change Uncertainties since 1978", 
+Geophys.Res.Let., 25, pp.  4377-4380.
+This dataset is freely available with one restriction:
+If you use the data or some product based on the data in a published 
+paper refer to one of the above publications and acknowlege receipt of the 
+dataset (mention version used) from PMOD/WRC, Davos, Switzerland,
+and acknowledge unpublished data from the VIRGO Team.
