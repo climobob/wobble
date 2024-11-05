@@ -1,0 +1,50 @@
+
+
+                  INTERNATIONAL EARTH ROTATION SERVICE
+
+
+                          EOP(IERS) C 02
+
+         Combined series of EOP (normal points) at 5-day intervals
+
+
+  	This series are available from 1970 in the 1997 IERS system. It is 
+    regularly recomputed to take advantage on one hand of the improvement 
+    of the various individual contributions and in the other hand of the 
+    refinement of the analyses procedure. 
+    For each date at 5-day intervals, individual determinations available
+    within +/- 2.5 days are brought to the central date by a modeled time 
+    variation of each of the EOP. The combined normal values are obtained 
+    by a weighted least square adjustment taking into account the 
+    covariance matrices of the individual determinations. The a priori 
+    standard deviations are based on the formal uncertainties associated 
+    with the individual values of the EOP, scaled to match the pair variance 
+    of the series, with added variances.
+    (See 1996 IERS Annual Report p II-61 ).
+
+                          -------------------
+
+  FORMAT OF THE FILES :
+
+  Field
+
+   First line
+    1   I6          numerical code of the series
+    2   F10.3       MJD of the measure
+    3   F10.6       x coordinate of the pole (")
+    4   F10.6       y coordinate of the pole (")
+    5   F11.7       UT1 - UTC (s)
+    6   F11.7       duration of the day D (s)
+    7   F10.6       dPsi celestial pole offsets in longitude (")
+    8   F10.6       dEPsi celestial pole offsets in obliquity (")
+   Second line
+    9   F10.6       standard error on x coordinate of the pole (")
+   10   F10.6       standard error on y coordinate of the pole (")
+   11   F11.7       standard error on UT1 - UTC (s)
+   12   F11.7       standard error on duration of the day D (s)
+   13   F10.6       standard error on dPsi celestial pole offsets in longitude (")
+   14   F10.6       standard error on dEPsi celestial pole offsets in obliquity (")
+
+
+
+
